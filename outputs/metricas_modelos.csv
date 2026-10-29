@@ -1,0 +1,4 @@
+modelo,accuracy,precision,recall,f1,auc_roc,gini,ks
+Regresión Logística,0.73,0.535,0.767,0.63,0.804,0.607,0.502
+Árbol de Decisión,0.617,0.419,0.722,0.531,0.698,0.397,0.298
+Random Forest,0.717,0.521,0.689,0.593,0.791,0.582,0.459
